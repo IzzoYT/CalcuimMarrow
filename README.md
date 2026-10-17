@@ -1,7 +1,7 @@
 # CalcuimMarrow-quest3
 
 > **Experimental BONELAB PC ↔ Quest 3 compatibility research**  
-> **Status:** `v0.1.0-dev` — research tooling only; no playable port exists.
+> **Status:** `v0.1.0-dev`
 
 Calcium Marrow explores whether selected assets and features from a legally owned Windows copy of **BONELAB** can be adapted to run using the existing Android/Quest runtime. The longer-term goal is to evaluate Quest 3 visual enhancements while maintaining acceptable VR performance.
 
